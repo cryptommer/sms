@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Auth;
 
-use Cryptommer\Smsir\Classes\Smsir;
+use Cryptommer\Smsir\Smsir;
 use Cryptommer\Smsir\Objects\Parameters;
 use App\Http\Controllers\Controller;
 use App\Providers\RouteServiceProvider;
